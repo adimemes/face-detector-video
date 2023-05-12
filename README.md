@@ -1,4 +1,1 @@
-detector face
-face detector
-face detector
-face detector
+face detector yang menggunakan python yang bisa mendektesi wajah melalui kamera webcam atau camera luaran
